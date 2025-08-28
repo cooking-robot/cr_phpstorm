@@ -2,7 +2,7 @@
 # Cookbook:: cr_phpstorm
 # Recipe:: default
 #
-# Copyright:: 2025, The Authors, All Rights Reserved.
+# Copyright:: 2025, Remi BONNET, GPL v3.
 
 case node['platform_family']
 when 'windows'

@@ -1,4 +1,4 @@
-# cr_phpstorm
+# PHPstorm
 
 Install and configure PHPstorm.
 

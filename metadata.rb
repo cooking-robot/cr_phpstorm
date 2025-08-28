@@ -1,7 +1,7 @@
 name 'cr_phpstorm'
 maintainer 'Remi BONNET'
 maintainer_email 'prog.bontiv@gmail.com'
-license 'All Rights Reserved'
+license 'GPL-3.0'
 description 'Installs/Configures PHPstorm'
 version '0.1.0'
 chef_version '>= 16.0'
